@@ -14,9 +14,6 @@
   "icon": "assets/ex-recipe/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "me.vsaj.exrecipe.client.ExRecipeClient"
-    ],
     "main": [
       "me.vsaj.exrecipe.ExRecipe"
     ]
