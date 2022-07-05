@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [" !!"," #!","#  "],
+  "key": {
+    "!": {
+      "item": "minecraft:iron_ingot"
+    },
+    "#": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident"
+  }
+}

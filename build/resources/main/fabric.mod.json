@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "ex-recipe",
+  "version": "1.0-SNAPSHOT",
+  "name": "Extended Recipes",
+  "description": "Add the recipes to the uncraftable items in Minecraft.",
+  "authors": [
+    "vsaj"
+  ],
+  "contact": {
+    "repo": "https://github.com/vsadge/extended-recipes"
+  },
+  "license": "MIT",
+  "icon": "assets/ex-recipe/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.vsaj.exrecipe.client.ExRecipeClient"
+    ],
+    "main": [
+      "me.vsaj.exrecipe.ExRecipe"
+    ]
+  },
+  "mixins": [
+    "ex-recipe.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "1.19"
+  }
+}
