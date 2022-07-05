@@ -1,11 +1,11 @@
 {
   "type": "crafting_shaped",
-  "pattern": [" !!"," #!","#  "],
+  "pattern": [" II"," PI","P  "],
   "key": {
-    "!": {
+    "I": {
       "item": "minecraft:iron_ingot"
     },
-    "#": {
+    "P": {
       "item": "minecraft:prismarine_shard"
     }
   },

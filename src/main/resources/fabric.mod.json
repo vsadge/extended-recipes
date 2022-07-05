@@ -8,7 +8,10 @@
     "vsaj"
   ],
   "contact": {
-    "repo": "https://github.com/vsadge/extended-recipes"
+    "repo": "https://github.com/vsadge/extended-recipes",
+    "sources": "https://github.com/vsadge/extended-recipes",
+    "homepage": "https://modrinth.com/mod/extended-recipes/",
+    "issues": "https://github.com/vsadge/extended-recipes/issues"
   },
   "license": "MIT",
   "icon": "assets/ex-recipe/icon.png",

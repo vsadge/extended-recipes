@@ -1,15 +1,15 @@
 {
   "type": "crafting_shaped",
-  "pattern": [" II"," PI","P  "],
+  "pattern": ["  I","ILI","III"],
   "key": {
     "I": {
       "item": "minecraft:iron_ingot"
     },
-    "P": {
-      "item": "minecraft:prismarine_shard"
+    "L": {
+      "item": "minecraft:leather"
     }
   },
   "result": {
-    "item": "minecraft:trident"
+    "item": "minecraft:iron_horse_armor"
   }
 }

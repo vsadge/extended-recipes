@@ -1,14 +1,17 @@
 {
   "schemaVersion": 1,
   "id": "ex-recipe",
-  "version": "1.0.1",
+  "version": "1.0.5-7+1.19",
   "name": "Extended Recipes",
   "description": "Add the recipes to the uncraftable items in Minecraft.",
   "authors": [
     "vsaj"
   ],
   "contact": {
-    "repo": "https://github.com/vsadge/extended-recipes"
+    "repo": "https://github.com/vsadge/extended-recipes",
+    "sources": "https://github.com/vsadge/extended-recipes",
+    "homepage": "https://modrinth.com/mod/extended-recipes/",
+    "issues": "https://github.com/vsadge/extended-recipes/issues"
   },
   "license": "MIT",
   "icon": "assets/ex-recipe/icon.png",
