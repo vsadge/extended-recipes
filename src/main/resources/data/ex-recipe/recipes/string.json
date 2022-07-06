@@ -1,6 +1,10 @@
 {
-  "type": "crafting_shapeless",
-  "pattern": ["W","",""],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " W ",
+    "   "
+  ],
   "key": {
     "W": {
       "item": "minecraft:white_wool"
@@ -11,3 +15,4 @@
     "count": 4
   }
 }
+

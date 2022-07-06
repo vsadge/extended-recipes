@@ -1,12 +1,18 @@
 {
-  "type": "crafting_shapeless",
-  "ingredients": [
-    {
-      "tag": "c:wools"
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " W ",
+    "   "
   ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
   "result": {
     "item": "minecraft:string",
     "count": 4
   }
 }
+
