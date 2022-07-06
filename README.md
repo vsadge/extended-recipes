@@ -4,6 +4,7 @@
 # Extended Recipes
 Adds recipes for the items that don't currently have crafting recipes.
 
+## View on:
 <a href="https://modrinth.com/mod/extended-recipes">
 <img border="0" alt="Modrinth" src="https://docs.modrinth.com/img/logo.svg" width="100" height="100">
 
