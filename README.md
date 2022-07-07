@@ -6,14 +6,14 @@ Adds recipes for the items that don't currently have crafting recipes.
 
 <img src="https://camo.githubusercontent.com/9296b230044bb4ef07851ff9baa2d04aeb210baee3467abafff1380fa081f08b/68747470733a2f2f692e696d6775722e636f6d2f4f6c31546366382e706e67" alt="drawing" width="150"/>
 
-Current items:
+Current 23 items:
 - Horse Armor
     - Leather
     - Golden
     - Diamond
     - Iron
 - Enchanted Golden Apple
-- Obisidian
+- Obsidian
 - Cobweb
 - Totem of Undying
 - Chorus Fruit
@@ -22,6 +22,16 @@ Current items:
 - Saddle
 - Name Tag
 - String
+- Heads
+    - Zombie
+    - Player
+    - Creeper
+    - Skeleton
+- Bottle o' Enchanting
+- Flint
+- Dead Bush
+- Grass
+- Tall Grass
 
 <details>
 <summary>All Recipes</summary>
@@ -53,6 +63,24 @@ Current items:
 ![Enchanted Golden Apple](https://cdn.modrinth.com/data/umaPRAsr/images/22da8716d5329ff49ca096f66091e2303ea11640.png) Enchanted Golden Apple
 
 ![Obsidian](https://cdn.modrinth.com/data/umaPRAsr/images/32225a03d5258c3575a84e278374af1ce1501ea4.png) Obsidian
+
+![Creeper Head](https://cdn.modrinth.com/data/umaPRAsr/images/2bd379e3d4159665f6fed9b06efa7f71db3a41c2.png) Creeper Head
+
+![Flint](https://cdn.modrinth.com/data/umaPRAsr/images/4115fdae1a987cab19b99148f22164eecd28dd43.png) Flint 
+
+![Player Head](https://cdn.modrinth.com/data/umaPRAsr/images/674734436d16bc4f9e55e25f640dc0df6c78afbf.png) Player Head
+
+![Zombie Head](https://cdn.modrinth.com/data/umaPRAsr/images/998ef83b31f799269cf83f6fd4607970e142e093.png) Zombie Head 
+
+![Skeleton Skull](https://cdn.modrinth.com/data/umaPRAsr/images/c4ecfa2116161bc89a595f350d9ab2870aa6b9a1.png) Skeleton Skull 
+
+![Bottle o' Enchanting](https://cdn.modrinth.com/data/umaPRAsr/images/d242d3407a8d186a07d1cb626a1314e7f2772749.png) Bottle o' Enchanting 
+
+![Grass](https://cdn.modrinth.com/data/umaPRAsr/images/04fa0a7ea5b3220811095e4e067a44de5e414c0c.png) Grass
+
+![Tall Grass](https://cdn.modrinth.com/data/umaPRAsr/images/c8aa064134f2d1291df8f8fea8c69eb0b17755ab.png) Tall Grass
+
+![Dead Bush](https://cdn.modrinth.com/data/umaPRAsr/images/4e5549e5f8ea81a6a4cdd467b01c46e0ca32e1f6.png) Dead Bush
 </details>
 
 ## License
