@@ -2,7 +2,7 @@
 
 ![Logo](https://cdn-raw.modrinth.com//data/umaPRAsr/icon.png)
 # Extended Recipes
-Adds recipes for the items that don't currently have crafting recipes.
+Adds recipes for the items that don't currently have crafting recipes. For fabric 1.18 and higher.
 
 <img src="https://camo.githubusercontent.com/9296b230044bb4ef07851ff9baa2d04aeb210baee3467abafff1380fa081f08b/68747470733a2f2f692e696d6775722e636f6d2f4f6c31546366382e706e67" alt="drawing" width="150"/>
 
