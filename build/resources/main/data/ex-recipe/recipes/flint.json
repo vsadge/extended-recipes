@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "S  ",
+    "G  ",
     "   ",
     "   "
   ],
   "key": {
-    "S": {
-      "item": "minecraft:wheat_seeds"
+    "G": {
+      "item": "minecraft:gravel"
     }
   },
   "result": {
-    "item": "minecraft:grass"
+    "item": "minecraft:flint"
   }
 }
 

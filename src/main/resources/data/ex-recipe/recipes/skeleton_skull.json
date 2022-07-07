@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AHA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "H": {
+      "item": "minecraft:player_head"
+    }
+  },
+  "result": {
+    "item": "minecraft:skeleton_skull"
+  }
+}
+
