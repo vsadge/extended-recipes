@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "ex-recipe",
-  "version": "1.0.19-23+1.19",
+  "version": "1.1.20-23",
   "name": "Extended Recipes",
   "description": "Add the recipes to the uncraftable items in Minecraft.",
   "authors": [
@@ -27,6 +27,6 @@
   "depends": {
     "fabricloader": ">=0.14.8",
     "fabric": "*",
-    "minecraft": "1.19"
+    "minecraft": ">=1.18"
   }
 }
